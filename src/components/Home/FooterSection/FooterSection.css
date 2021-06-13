@@ -1,0 +1,8 @@
+.footer-back{
+    background-image: url('../../../img/footer.png');
+    height: 300px;
+}
+.line{
+    width: 50px;
+    border-top: 3px solid #00DBD0;
+}

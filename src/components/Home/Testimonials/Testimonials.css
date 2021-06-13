@@ -1,0 +1,25 @@
+.testimonial-section{
+    background-image: url('../../../img/leafingback.png');
+    background-repeat: no-repeat;
+    background-position: left -650px top -300px;
+}
+
+.testimonials{
+    height: 400px;
+}
+
+.subscribe-button{
+    height: 50px;
+    width: 150px;
+    background-color:#00DBD0;
+    border: none;
+    border-radius:50px;
+    color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .testimonials {
+     padding-top: 400px !important;
+     padding-bottom: 400px !important;
+    }
+  }

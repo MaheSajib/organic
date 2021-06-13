@@ -1,0 +1,20 @@
+.nav{
+    z-index: 2;
+}
+.link{
+    border-bottom: 0.1875rem solid #00DBD0;
+}
+.link:hover{
+    border-bottom: 0.1875rem solid #449D44;
+}
+.logo h2{
+    color: #374b5c;
+    font-weight: 800;
+}
+
+.contact-button{
+    border-color: #00DBD0 !important;
+}
+.contact-button:hover{
+    border-color: #449D44  !important;
+}

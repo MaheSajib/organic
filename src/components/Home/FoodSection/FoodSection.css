@@ -1,0 +1,7 @@
+.food-card:hover{
+    background-color: #00DBD0;
+    color: white;
+}
+.food-section{
+    margin-top: 100px;
+}

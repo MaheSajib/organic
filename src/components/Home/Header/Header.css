@@ -1,0 +1,29 @@
+.header-main{
+    background-image: linear-gradient(#F2FEFE, white);
+}
+
+.pera{
+    color: #374b5c;
+}
+.hero-flower{
+    background-image: url("../../../img/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.flower{
+    z-index: 2;
+    overflow: hidden;
+    top: 150px;
+    right: 150px;
+    position: relative;
+    display: block;
+}
+
+.explore-button{
+    height: 40px;
+    width: 150px;
+    background-color:#00DBD0;
+    border:none;
+    border-radius:10px; 
+}
