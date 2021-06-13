@@ -31,7 +31,7 @@ const Testimonials = () => {
 ];
 
     return (
-        <div className="container testimonial-section">
+        <div className="container-fluid testimonial-section">
             <section className="testimonials my-5 ">
                     <Carousel>
                         {
